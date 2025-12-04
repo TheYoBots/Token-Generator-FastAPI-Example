@@ -62,4 +62,3 @@ Notes for learners
 This repo is intentionally small so that learners can study the FastAPI
 endpoints, Pydantic model, template, and test cases. Inline comments in
 `main.py` explain the implementation and purpose of each part.
-# Git-Test-Learn
