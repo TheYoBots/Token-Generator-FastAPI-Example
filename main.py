@@ -80,7 +80,7 @@ async def read_root(request: Request):
     a browser. A welcome message is included for the participant.
     """
     # Use the specific welcome and quote text to match the design requirements.
-    welcome = "Welcome to the webpage, Jaya Narayana!"
+    welcome = "Welcome to the webpage, Yohaan Nathan!"
     return templates.TemplateResponse("index.html", {"request": request, "welcome": welcome})
 
 
